@@ -1,0 +1,6 @@
+services:
+  backend:
+    build: .
+    container_name: backend-app
+    ports:
+      - "3001:3001"
