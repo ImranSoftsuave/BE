@@ -13,7 +13,7 @@ app.use(function(req, res, next) {
 
 const database = {
     customers: [
-        { id: 1, name: "Americas Inc.", employees: 100, contactInfo: { name: "John Smith", email: "jsmith@americasinc.com"}},
+        { id: 1, name: "Americas Inc.Imran", employees: 100, contactInfo: { name: "John Smith", email: "jsmith@americasinc.com"}},
         { id: 2, name: "Caribian Airlnis", employees: 1000, contactInfo: { name: "Jose Martinez", email: "martines@cair.com"}},
         { id: 3, name: "MacroSoft", employees: 540, contactInfo: { name: "Bill Paxton", email: "bp@ms.com"}},
         { id: 4, name: "United Brands", employees: 20},
